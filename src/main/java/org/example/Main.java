@@ -13,8 +13,8 @@ public class Main {
          Adding credentials
          */
         AWSCredentials credentials = new BasicAWSCredentials(
-                "AKIAYI7GUN6MNHHDCHFZ",
-                "26NE7LwL1V01UWh4LnF/0NJtla5njoVmg1eAq48S"
+                "",
+                ""
         );
 
         S3creation s3creation = new S3creation();
